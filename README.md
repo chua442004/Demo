@@ -30,14 +30,14 @@ I am __Cai Junjie__, an experienced Project Planner for the past decade with int
 <!-- EXPERIENCE Section Starts -->
 ### EXPERIENCE
 <!-- Add your details -->
-##### BOSTON CONSULTING GROUP
+##### SEMBCORP MARINE
 SENIOR ANALYST<br>
 June-2019 to Present: 1 year 10 Months
 
-ROLE: Data Scientist/ Machine Learning Engineer/ AI Consultant
-UNIT: BCG GAMMA
+ROLE: XX
+UNIT: XX
 
-Working on various analytics based cases that facilitates clients for next-generation AI strategy. Involved in asset building while applying scientific algorithms on a huge amount of text, time-series data, images and other forms of unstructured data.
+Working on XX
 
 <!-- EXPERIENCE Section Ends -->
 
@@ -82,5 +82,5 @@ BCG-RISE Business and Data Analytics
 Primavera P6 Professional Advanced Certificate
 
 ##### Achievements
-Star performer of the year at Accenture
+XX
 <!-- FEATURED Section Ends -->
